@@ -7,7 +7,7 @@ export default function Home() {
       <Menu>
         <Menu.Item>Item</Menu.Item>
       </Menu>
-      <Link href="/test">Test</Link>
+      <Link href="/">Index</Link>
     </div>
   );
 }
